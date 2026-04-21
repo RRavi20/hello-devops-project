@@ -27,4 +27,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: rravi20/hellodevops-project:latest
+                tags: rravi20/hello-devops-project:latest
